@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = ssh://git@github.com/soyezequiel/Trabajo-Unlp.git
